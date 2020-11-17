@@ -1,0 +1,14 @@
+{
+  "name": "Duukast",
+  "short_name": "Duukast",
+  "icons": [{
+      "src": "./assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": "./index.html",
+  "display":"standalone",
+  "orientation": "portrait",
+  "background_color": "#171717",
+  "theme_color": "#171717"
+}
